@@ -11,6 +11,6 @@ Vagrantfile
 .perl-version
 dist.ini
 cpanfile.*
-Crypto-Exchange-Binance-.*
+Crypto-Exchange-Binance-Spot-API-.*
 Dockerfile
 docker-compose.yml

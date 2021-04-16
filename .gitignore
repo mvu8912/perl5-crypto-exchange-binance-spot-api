@@ -8,4 +8,4 @@ perltidy.ERR
 .bash_history
 .cpanm
 tools/init.log
-Crypto-Exchange-Binance-*
+Crypto-Exchange-Binance-Spot-API-*
