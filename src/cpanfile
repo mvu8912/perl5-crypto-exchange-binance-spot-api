@@ -1,3 +1,4 @@
 #vim: syntax=perl
 
+requries 'DateTime';
 requires "Crypto::Exchange::API";
